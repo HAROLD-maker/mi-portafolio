@@ -124,7 +124,7 @@ const data = {
         {
             name: 'Portafolio',
             description: 'Este proyecto es un portafolio.',
-            github: '',
+            github: 'https://github.com/HAROLD-maker/mi-portafolio.git',
 
             picture: portafolio,
             tecnologies:[
